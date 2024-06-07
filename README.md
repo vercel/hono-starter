@@ -9,7 +9,7 @@ npm install
 npm run start
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000/api](http://localhost:3000/api) with your browser to see the result.
 
 You can start editing the API by modifying `api/index.ts` and learn more by taking a look to the [API documentation](https://hono.dev/api/hono).
 
