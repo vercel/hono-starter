@@ -6,8 +6,10 @@ First, run the development server:
 
 ```bash
 npm install
-npm run start
+npm run start #vercel dev will run
 ```
+
+Follow the setup guide to select a Vercel project.
 
 Open [http://localhost:3000/api](http://localhost:3000/api) with your browser to see the result.
 
